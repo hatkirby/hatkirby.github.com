@@ -195,3 +195,23 @@ ul.posts {
   #related h2 {
     margin-bottom: 1em;
   }
+  
+blockquote {
+  margin: 0 1.5em;
+  font-style: italic;
+  font-family: Georgia, "Bitstream Charter", serif;
+}
+
+.alignright {
+  float: right;
+  margin-left: 1.5em;
+}
+
+.alignleft {
+  float: left;
+  margin-right: 1.5em;
+}
+
+img {
+  max-width: 100%;
+}

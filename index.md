@@ -5,42 +5,17 @@ tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+Hi, I'm Kelly Rauchenberger, and this is my personal blog. I'm a second year computer science student at Carnegie Mellon University. Here, I write about programming adventures, music I enjoy, and other musings.
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+* [Blog feed](http://blog.slipperless.com/feed/) ![](/assets/themes/tom/images/atom.png")
+* [My twitter](http://twitter.com/fefferburbia) ![](/assets/themes/tom/images/twitter_alt.png)
+* [My last.fm](http://last.fm/user/fefferburbia) ![](/assets/themes/tom/images/lastFM.png)
 
-## Update Author Attributes
-
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
-
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
-
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
-
-    $ rm -rf _posts/core-samples
-
-Here's a sample "posts list".
+<br />
+## Recent posts
 
 <ul class="posts">
   {% for post in site.posts %}
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
-
-## To-Do
-
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
-
-

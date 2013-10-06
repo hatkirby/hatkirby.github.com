@@ -1,0 +1,24 @@
+---
+layout: post
+title: I've Been Rainbow Dashing Everywhere For This Transition
+categories:
+- Musings
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  dsq_thread_id: '1174412383'
+---
+A difficult question that's been going around lately has been on whether or not to let transwomen compete in women's athletics. On the yay side, there are those who argue that disallowing transwomen from competing in women's athletics is an insult to their transition and yet another dysphoric reminder that their lives are not what they wish. On the nay side, however, there are those who argue that transwomen, having been born biologically male, may have an unfair advantage over the rest of the natal female contestants. However, in order to really analyze this, one has to actually define what an "unfair advantage" actually is.
+
+In an episode of *My Little Pony: Friendship Is Magic*, "Fall Weather Friends," the ponies Apple Jack and Rainbow Dash compete for the honor of being the most athletic pony. Halfway into the games, Rainbow Dash, being a winged pony, starts to use her wings to win games she otherwise wouldn't have---for instance, propelling herself forward in order to win the long jump. Apple Jack, being an earth pony and not owning wings, argued against the validity of Rainbow Dash's victory, stating that she had an unfair advantage. However, was this actually unfair of Rainbow Dash? It seems obvious, in this example, that this did constitute an unfair advantage because flight is not only an ability that Rainbow Dash did not have to work for, but also an ability that Apple Jack is unable to ever attain.
+
+<center><a href="http://blog.slipperless.com/wp-content/uploads/2013/03/Screen-Shot-2013-03-30-at-12.21.45-AM.png"><img class="size-large wp-image-53" alt="Rainbow Dash carrying baby chicks on her wings to prevent them from getting muddy." src="http://blog.slipperless.com/wp-content/uploads/2013/03/Screen-Shot-2013-03-30-at-12.21.45-AM-620x348.png" width="525" height="294" /></a><p>Rainbow Dash carrying baby chicks on her wings to prevent them from getting muddy. *My Little Pony: Friendship Is Magic*, S01E13 "Fall Weather Friends"</p></center>
+
+What this calls into question, then, is what the point of sports are. In the above picture, Rainbow Dash spreads her wings to shield the baby chicks from getting muddy. While this in itself is an effective strategy for preventing small birds from getting dirty, it is against the point of the specific game being played: determining who can walk in mud without kicking up debris that would cause the baby chicks on your back to fly away. If the point of the game had been to just prevent the baby chicks from getting dirty, Apple Jack could have just walked around the mud pit, and it would have been just as legitimate as Rainbow Dash using her wings.
+
+Now, while most modern sports have objectives like "get the ball into the hoop" and "get the ball into the goal" (is it strange how many sports have to do with balls? Insert transphobic joke. Shake head disapprovingly.), the actual point of the sports is to compare different peoples' abilities to train. The point of segregating mens' and womens' sports is because people believe that men as a whole have around the same base level of ability and therefore the same amount of training will result in the same level of athleticism, and similar for women. While this is barely true, it is still a painful truth that natal androgens and estrogens strongly influence athleticism later in life. This *could* bring up an argument that gender in society is flawed and that if we just deleted gender entirely then there wouldn't be any transgenderism and no gender difficulties in sporting, but that is so played out that expounding on it here would be a waste of time. So would a question of whether or not hormone replacement therapy removes the "natural advantage" a transwoman might have from her natal androgen.
+
+A better argument is the one that skill itself is *not*, as I implied earlier, the only factor in competition. Sheer luck, the random number generator of the universe, is itself a very important component of how a game goes. In fact, as skill can not be absolutely measured, sheer luck is actually the *most* important factor of how a game plays out. While training does vaguely increase the chance of winning, it is in no way an absolute. Knowledge, and familiarity, are also both important aspects because they influence sheer luck to a degree as well, and neither is largely sex-linked. Therefore, it is my opinion that transwomen *should* be allowed to play in womens' sports. It would be even more preferential to dissolve sex segregated competitions in general, but that is a far more far-fetched dream. Once again, gender in society is not going to dissolve overnight, much as some people would love it to.
