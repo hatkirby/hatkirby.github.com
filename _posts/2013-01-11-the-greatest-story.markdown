@@ -37,11 +37,11 @@ So, six paragraphs in to this discussion, you may be asking, "Kelly, why are you
 
 While this was a very amateur endeavor, and the bindings ended up a bit more glued than I had wanted, I am very proud of binding my first books, especially as I helped write these books. I do believe it is time for some pictures.
 
-<center><a href="http://blog.slipperless.com/wp-content/uploads/2013/01/starfall-1.jpg"><img class="size-large wp-image-32 aligncenter" alt="starfall-1" src="http://blog.slipperless.com/wp-content/uploads/2013/01/starfall-1-620x465.jpg" width="584" height="438" /></a></center>
+<center><a href="/assets/images/2013-01-11-the-greatest-story/starfall-1.jpg"><img src="/assets/images/2013-01-11-the-greatest-story/starfall-1-small.jpg" width="584" height="438" /></a></center>
 
 It was not until after I bound the books that I realized the covers had printed with the wrong font, but I don't mind, I think this looks nice. Also included for your viewing pleasure is a picture of me holding one of these books open. I think you'll find that it looks like I'm reading an actual book, which, I guess, it technically is.
 
-<center><a href="http://blog.slipperless.com/wp-content/uploads/2013/01/starfall-2.jpg"><img class="size-large wp-image-33 aligncenter" alt="starfall-2" src="http://blog.slipperless.com/wp-content/uploads/2013/01/starfall-2-620x826.jpg" width="584" height="778" /></a></center>
+<center><a href="/assets/images/2013-01-11-the-greatest-story/starfall-2.jpg"><img src="/assets/images/2013-01-11-the-greatest-story/starfall-2-small.jpg" width="584" height="778" /></a></center>
 
 The final step of the process involved mailing the Full Color Edition to our project leader, Amelia, and mailing the less glued-up Standard Edition to Jonathan. I am left here with the final first edition copy of Starfall and I am quite enjoying my handiwork. Printing a book that I worked on and then binding it has been a dream of mine for a while, and I'm happy that I was able to do this. If I ever win a NaNoWriMo, I intend on printing that novel too. Starfall, by the way, just made the mark for novella status (17500 words) with a total count of 18500 words on the dot. How...... nice.
 

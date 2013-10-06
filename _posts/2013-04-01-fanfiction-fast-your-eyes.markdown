@@ -11,7 +11,7 @@ meta:
   _edit_last: '1'
   dsq_thread_id: '1180094082'
 ---
-<center><a href="http://blog.slipperless.com/wp-content/uploads/2013/03/Screen-Shot-2013-03-31-at-5.32.00-PM.png"><img class="aligncenter size-large wp-image-63" alt="Screen Shot 2013-03-31 at 5.32.00 PM" src="http://blog.slipperless.com/wp-content/uploads/2013/03/Screen-Shot-2013-03-31-at-5.32.00-PM-620x392.png" width="525" height="331" /></a></center>
+<center><a href="/assets/images/2013-04-01-fanfiction-fast-your-eyes/screenshot.png"><img src="/assets/images/2013-04-01-fanfiction-fast-your-eyes/screenshot-small.png" width="525" height="331" /></a></center>
 
 This is a story about Greed.
 

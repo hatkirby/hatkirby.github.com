@@ -26,7 +26,7 @@ The truth is, software not only has to function, it also has to look good. I'm n
 
 Take, for instance, the current main menu of Cartographic.
 
-<center><a href="http://blog.slipperless.com/wp-content/uploads/2013/01/cartographic-start.png"><img class="size-full wp-image-16 aligncenter" alt="cartographic-start" src="http://blog.slipperless.com/wp-content/uploads/2013/01/cartographic-start.png" width="620" height="413" /></a></center>
+<center><a href="/assets/images/2013-01-03-how-graphics-stunt-programming/cartographic-start.png"><img src="/assets/images/2013-01-03-how-graphics-stunt-programming/cartographic-start.png" width="525" height="350" /></a></center>
 
 While this certainly *works* for testing purposes, there are quite a few problems with it. For one, yes, it looks very ugly. The title text is in an ugly font which clashes with the background, and it really just doesn't work the way it is. The buttons are also very monotonic, standard and boring. Second of all, the background image is not my original work, which means I cannot include it in an app that I wish to sell.
 
