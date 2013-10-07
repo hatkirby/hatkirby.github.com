@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Hello World!
+title: Slipperless in Suburbia
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
 Hi, I'm Kelly Rauchenberger, and this is my personal blog. I'm a second year computer science student at Carnegie Mellon University. Here, I write about programming adventures, music I enjoy, and other musings.
 
-* [Blog feed](http://blog.slipperless.com/feed/) ![](/assets/themes/tom/images/atom.png)
+* [Blog feed](/atom.xml) ![](/assets/themes/tom/images/atom.png)
 * [My twitter](http://twitter.com/fefferburbia) ![](/assets/themes/tom/images/twitter_alt.png)
 * [My last.fm](http://last.fm/user/fefferburbia) ![](/assets/themes/tom/images/lastFM.png)
 
